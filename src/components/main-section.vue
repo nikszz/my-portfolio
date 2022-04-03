@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="container-fluid bg-dark text-white py-4">
+  <div class="container-fluid bg-global text-white py-5">
     <div class="jumbotron jumbotron-fluid">
       <div class="container p-5">
         <h1 class="display-4">

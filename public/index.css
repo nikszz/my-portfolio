@@ -1,6 +1,44 @@
+.bg-global{
+  background-color: #0D0E1D;
+}
+
 .bg-orange {
     color: #f9861a;
-  }
-  .ls {
+}
+
+.ls-header {
     letter-spacing: 10px;
-  }
+}
+
+.ls {
+  letter-spacing: 5px;
+}
+
+.nav-link-custom{
+
+}
+
+.btn-custom {
+  color: white;
+  font-weight: 600;
+  font-size: small;
+  background: #f9861a;
+  border: none;
+  height: 60px;
+}
+
+.btn-custom:hover{
+  color: black;
+  background: white;
+
+}
+
+.connect-link {
+  font-weight: 400;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+
+.connect-link:hover{
+  color: #f9861a;
+}

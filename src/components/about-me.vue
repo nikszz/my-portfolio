@@ -1,13 +1,19 @@
 <template>
   <div>
-    <div class="container-fluid bg-light py-4">
+    <div class="container-fluid bg-light py-5">
       <div class="jumbotron jumbotron-fluid">
         <div class="container p-5">
           <span class="ls bg-orange">About Me</span>
-        </div>
-        <div class="row">
-          <div class="col-6">hajgdajhdgas</div>
-          <div class="col-6">askdhaskjdj</div>
+          <div class="row py-5">
+            <div class="col-6">
+              <span class="display-4"
+                >I'm the kind of person who isn't afraid of challenges.</span
+              >
+            </div>
+            <div class="col-6 p-5">
+              <img src="../assets/me.webp" width="400" alt="me" />
+            </div>
+          </div>
         </div>
       </div>
     </div>
