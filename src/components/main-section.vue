@@ -17,8 +17,5 @@
 <script>
 export default {
   name: "MainSection",
-  methods: {
-    name() {},
-  },
 };
 </script>
