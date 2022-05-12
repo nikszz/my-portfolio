@@ -5,7 +5,7 @@
         <div class="container p-5">
           <span class="ls bg-orange">About Me</span>
           <div class="row py-5">
-            <div class="col-6">
+            <div class="col-6 auto">
               <span class="display-4"
                 >I'm the kind of person who isn't afraid of challenges.</span
               >
@@ -21,9 +21,14 @@
               </div>
             </div>
 
-            <div class="col-6">
-              <div class="p-4 ml-0">
-                <img src="../assets/me.webp" width="400" alt="me" />
+            <div class="col-6 auto">
+              <div class="">
+                <img
+                  src="../assets/me.webp"
+                  width="100% auto"
+                  height="100% auto"
+                  alt="me"
+                />
               </div>
             </div>
           </div>

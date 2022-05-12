@@ -12,9 +12,9 @@
             <div class="row pt-5">
               <button class="ls btn-custom">LET'S TALK</button>
             </div>
-            <div class="pt-5 text-secondary">
+            <!-- <div class="pt-5 text-secondary">
               <span>Design & Develop By Nikhil Bhardwaj</span>
-            </div>
+            </div> -->
           </div>
           <div class="col-6 px-5">
             <div class="container">
